@@ -1,7 +1,11 @@
 # NLWeSports
 
 ### Técnologias Utilizadas
-React, React native, Typescript, TailwindCSS
+ 
+- React
+- React native
+- Typescript
+- TailwindCSS
 
 ### Imagem aplicação WEB
 
